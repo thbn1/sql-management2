@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>excel.png</file>
+  </qresource>
+</RCC>
